@@ -1,3 +1,6 @@
+# Modules refer to a file containing Python statements and definitions.
+# This is the main file where module is imported
+
 import myModule
 
 input = input("Enter your Name : ")
